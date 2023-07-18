@@ -1,5 +1,5 @@
 # Robot_panel
-Demo : https://reema-jehad.github.io/Robot_panel/
+The Site : https://reema-jehad.github.io/Robot_panel/
 ![image](https://github.com/Reema-jehad/Robot_panel/assets/118291582/efbcf0e4-b10c-426d-a9ca-7d33700c19c2)
 <br> This is the Front-End web page of the Robot control panel
 ![image](https://github.com/Reema-jehad/Robot_panel/assets/118291582/7919ac70-2f5a-4d19-9a4e-8f937cf56a9f)
