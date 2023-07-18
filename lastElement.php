@@ -14,7 +14,6 @@
 
   // Get the last record
   $statement = $db->prepare("SELECT * FROM action0 ORDER BY id DESC LIMIT 1");
-  // $statement = $db->prepare("SELECT * FROM actions2 WHERE action=(SELECT MAX(rid) FROM action2");
   $statement->execute();
   $row = $statement->fetch();
 
